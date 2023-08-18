@@ -1,0 +1,30 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box
+}
+
+p{
+	font-size:100px;
+	font-style:cursive;
+	color: orange;
+	 font-weight: center;
+}
+
+.v{
+	font-style: !important;
+	font-size: 50px;
+	color: red;
+}
+
+.valli{
+	font-style: cursive;
+	font-size: 40px;
+	color: black;
+}
+
+.ab{
+	font-size: 40px;
+	font-style: normal;
+	color: yellow;
+}

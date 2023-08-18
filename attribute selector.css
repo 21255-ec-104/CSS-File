@@ -1,0 +1,19 @@
+input[type ]{
+	color: black;
+}
+
+input[type="Name" ]{
+	color: blue;
+}
+
+input[type="number"]{
+	color:red;
+}
+input[type="email"]{
+	color: yellow;
+}
+
+a[href]{
+	background-color: pink;
+	width: 100px;
+}

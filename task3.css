@@ -1,0 +1,102 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box
+
+}
+
+.m{
+	background-color: white;
+	height: 4400px;
+	width: 1000px;
+}
+
+.c1{
+	background-color: white;
+	height: 600px;
+	width: 1000px;
+	background-image: url(imgt/imgt1.jpg);
+	background-size:cover;
+}
+
+.c2{
+	background-color: blue;
+	height: 400px;
+	width: 1000px;
+}
+.c3{
+	background-color: white;
+	height: 600px;
+	width: 1000px;
+}
+.c4{
+	background-color: blue;
+	height: 400px;
+	width: 1000px;
+}
+.c5{
+	background-color: white;
+	height: 500px;
+	width: 1000px;
+}
+.c6{
+	background-color:blue;
+	height: 300px;
+	width: 1000px;
+}
+
+.c7{
+	background-color: white;
+	height: 600px;
+	width: 1000px;
+}
+.c8{
+	background-color: blue;
+	height: 600px;
+	width: 1000px;
+}
+.c9{
+	background-color: white;
+	height: 600px;
+	width: 1000px;
+}
+
+p.a{
+	font-size: 100px;
+	color: orange;
+	text-align: center;
+}
+
+.c2a{
+	background-color: blue;
+	height: 400px;
+	width: 250px;
+	float: left;
+	background-image: url(imgt/i1.jpg);
+	background-size: height:400; width: 250;
+}
+
+.c2b{
+	background-color: blue;
+	height: 400px;
+	width: 250px;
+	float: left;
+
+}
+
+.c2c{
+	background-color:blue;
+	height: 400px;
+	width: 250px;
+	float: left;
+
+}
+
+.c2d{
+	background-color: blue;
+	height: 400px;
+	width: 250px;
+	float: right;
+
+}
+

@@ -1,0 +1,11 @@
+body{
+	background-image: url('imgt/imgt11.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.abc{
+	font-size: 50px;
+	color: red;
+	font-style: revert;
+}

@@ -1,0 +1,41 @@
+
+     	
+
+.a{
+	background-color: red;
+	height: 600px;
+	width: 600px;
+	
+	margin: 10px;
+
+
+}
+p{
+/*	margin-left:200px ;*/
+/*	margin-top: 40px;*/
+ 
+}
+.b{
+	background-color: yellow;
+	height: 500px;
+	width: 500px;
+	
+	margin: 50px;
+
+}
+.c{
+	background-color: blue;
+	height: 400px;
+	width: 400px;
+	
+	margin: 50px;
+
+}
+.d{
+	background-color: lightcyan;
+	height: 300px;
+	width: 300px;
+	
+	margin: 50px;
+
+}
